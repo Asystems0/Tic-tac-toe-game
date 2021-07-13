@@ -1,0 +1,5 @@
+Second update:
+
+1. Fix close CMD when game over bug.
+2. Add functions to optimize the code.
+3. Check if user input is a number, the problem has not yet been resolved.
